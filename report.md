@@ -5,6 +5,13 @@ we have used Multi layer perceptron, input size is the environment input size an
 ####    TODO
 - Convolutional Neural Network
 
+## Parameters
+* Number of episodes: 4000 (maximum)
+* maximum per time step=1000
+* epsilon start=1.0
+* epsilon end=0.01
+* epsilon decay rate=0.999
+
 ## Results
 Snipping tool has been used to clip from python notebook.
 
