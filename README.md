@@ -34,7 +34,7 @@ you would be requiring the following
     
     jupyter notebook
     
-*    Pytorch
+*    Pytorch [click for installation](https://pytorch.org/)
 *    Numpy & matplotlib
      
     pip install numpy
