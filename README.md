@@ -16,11 +16,18 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
      
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes
 
+For this use case, we dont have to install Unity environment as it has already been built. please find the details specific to operating systems.
+
+*    [Linux](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+*    [Mac OS](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
+*    [Win 32](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+*    [Win 64](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+
 ## Installation details
 you would be requiring the following
 *    Python 3.6 or above
           
-    python installation url - https://www.python.org/downloads/
+    python installation url - [click here](https://www.python.org/downloads/)
     
 *    Jupyter notebook/ lab
 
