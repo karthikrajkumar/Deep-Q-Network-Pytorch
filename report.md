@@ -8,7 +8,7 @@ we need to check the performance of using convolutional neural network
 ## Results
 Snipping tool has been used to clip from python notebook.
 
-
+![Banana Image](https://raw.githubusercontent.com/karthikrajkumar/vanilla-dqn/master/report.JPG?token=AE3gVNAbTkFRTmU12m9YWLRvKG5GhQ4kks5cchMVwA%3D%3D)
 
 ## Agent Details
 we have tried with the plain vannila Deep Q Network.
