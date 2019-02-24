@@ -25,9 +25,7 @@ For this use case, we dont have to install Unity environment as it has already b
 
 ## Installation details
 you would be requiring the following
-*    Python 3.6 or above
-          
-    python installation url - [click here](https://www.python.org/downloads/)
+*    Python 3.6 or above [click here](https://www.python.org/downloads/)
     
 *    Jupyter notebook/ lab
 
