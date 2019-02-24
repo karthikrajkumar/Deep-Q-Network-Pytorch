@@ -43,3 +43,4 @@ you would be requiring the following
 
 ## How to run this ?
 Open the Navigation python notebook (Navigation.ipynb) and start running cell by cell or run all.
+Note: The Unity environment needs to be downloaded and in Navigation.ipynb the path to load the environment needs to be changed accordingly.
