@@ -9,10 +9,10 @@ we have used Multi layer perceptron, input size is the environment input size an
 Snipping tool has been used to clip from python notebook.
 
 ### The average score per 100 episodes
-![Banana Image](https://raw.githubusercontent.com/karthikrajkumar/vanilla-dqn/master/report2.JPG?token=AE3gVFSYDcX6vO7nCKFSzosXxntdauD4ks5cchPYwA%3D%3D)
+![Banana Image](https://raw.githubusercontent.com/karthikrajkumar/vanilla-dqn/master/report2.JPG)
 
 ### Growth of Scores  
-![Banana Image](https://raw.githubusercontent.com/karthikrajkumar/vanilla-dqn/master/report.JPG?token=AE3gVNAbTkFRTmU12m9YWLRvKG5GhQ4kks5cchMVwA%3D%3D)
+![Banana Image](https://raw.githubusercontent.com/karthikrajkumar/vanilla-dqn/master/report1.JPG)
 
 ## Agent Details
 we have tried with the plain vannila Deep Q Network.
