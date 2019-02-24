@@ -19,7 +19,19 @@ The task is episodic, and in order to solve the environment, your agent must get
 ## Installation details
 you would be requiring the following
 *    Python 3.6 or above
+          
+    python installation url - https://www.python.org/downloads/
+    
 *    Jupyter notebook/ lab
 
     python3 -m pip install --upgrade pip
     python3 -m pip install jupyter
+    
+    jupyter notebook
+    
+*    Pytorch
+*    Numpy & matplotlib
+     
+    pip install numpy
+    pip install matplotlib
+     
