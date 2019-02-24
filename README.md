@@ -16,4 +16,10 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
      
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes
 
-Implementation of Vanilla DQN in Pytorch
+## Installation details
+you would be requiring the following
+*    Python 3.6 or above
+*    Jupyter notebook/ lab
+
+    python3 -m pip install --upgrade pip
+    python3 -m pip install jupyter
