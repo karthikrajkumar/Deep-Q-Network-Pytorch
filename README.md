@@ -14,7 +14,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
      2 - turn left.
      3 - turn right.
      
-The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes
+The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive episodes
 
 For this use case, we dont have to install Unity environment as it has already been built. please find the details specific to operating systems.
 
