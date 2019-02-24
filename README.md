@@ -47,3 +47,5 @@ we have tried with the plain vannila Deep Q Network.
 *    Prioritized Experience Replay
 *    Noisy exploration
 *    Distributional
+## How to run this model ?
+Open the Navigation python notebook (Navigation.ipynb) and start running cell by cell or run all.
