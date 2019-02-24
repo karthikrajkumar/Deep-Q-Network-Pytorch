@@ -2,6 +2,12 @@
 
 ## Model Details
 we have used Multi layer perceptron, input size is the environment input size and vice versa for the output. Please check the implementation of model in model.py
+
+Fully connected Layers
+Layer 1 - Input size (37) and output size (64)
+Layer 2 - Input size (64) and output size (64)
+Layer 3 - Input size (64) and output size action space
+
 ####    TODO
 - Convolutional Neural Network
 
